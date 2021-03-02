@@ -10,7 +10,7 @@ Simple application that shows the power of Compose :D
 
 
 ## :bulb: Motivation and Context
-In A few lines we can build impressive layout. In the beginning is hard to switch from xml, but with time it's starting be easy :D
+I am impressed with how simple and powerful Compose is at one time. At the beginning is hard to switch from xml, but with time it's starting to be easy :D
 
 
 ## :camera_flash: Screenshots
