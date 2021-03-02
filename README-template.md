@@ -1,17 +1,16 @@
-# Put title of your app here
+# Puppies
 
 <!--- Replace <OWNER> with your Github Username and <REPOSITORY> with the name of your repository. -->
 <!--- You can find both of these in the url bar when you open your repository in github. -->
-![Workflow result](https://github.com/<OWNER>/<REPOSITORY>/workflows/Check/badge.svg)
+![Workflow result](https://github.com/ynsok/-AndroidDevChallenge/workflows/Check/badge.svg)
 
 
 ## :scroll: Description
-<!--- Describe your app in one or two sentences -->
+Simple application that shows the power of Compose :D
 
 
 ## :bulb: Motivation and Context
-<!--- Optionally point readers to interesting parts of your submission. -->
-<!--- What are you especially proud of? -->
+In A few lines we can build impressive layout. In the beginning is hard to switch from xml, but with time it's starting be easy :D
 
 
 ## :camera_flash: Screenshots

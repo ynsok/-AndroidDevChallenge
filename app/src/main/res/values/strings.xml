@@ -9,5 +9,6 @@
       or implied. See the License for the specific language governing permissions and limitations under
       the License.
       -->
-    <string name="app_name">AndroidDevChallenge</string>
+    <string name="app_name">Puppies</string>
+    <string name="puppy_description">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi sapien erat, suscipit et diam ac, cursus imperdiet felis. Nulla venenatis eu urna non commodo. Suspendisse lacinia mi non sollicitudin tincidunt. In eu congue libero. Suspendisse eget nibh tortor. Suspendisse potenti. Nullam non cursus velit. Curabitur a quam et massa ultricies elementum. Sed sit amet consequat tellus. Sed tempor, sem posuere vulputate pellentesque, orci nisi convallis lacus, ac pretium orci tellus nec mi. Pellentesque condimentum diam ut ullamcorper egestas. Proin consectetur, nisi vel consequat varius, lorem risus dictum velit, vel sodales eros augue ac nisl. Suspendisse pretium lorem ac rhoncus accumsan. Quisque nec ligula posuere, convallis nisl a, placerat orci.</string>
 </resources>
